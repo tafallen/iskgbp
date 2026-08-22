@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ISK to GBP Converter</string>
+    <string name="title_calculator">Currency Calculator</string>
+    <string name="label_isk">ISK</string>
+    <string name="label_gbp">GBP</string>
+    <string name="btn_refresh">Refresh</string>
+    <string name="status_loading">Fetching latest exchange rates…</string>
+    <string name="status_error">Failed to fetch rates. Tap to retry.</string>
+    <string name="label_presets">Quick Preset Conversions</string>
+</resources>

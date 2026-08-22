@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer decorative circle path -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00BD9D"
+        android:strokeWidth="2.5"
+        android:pathData="M54,20 A34,34 0 1,1 53.9,20" />
+
+    <!-- Conversion Arrows & Graphic in the center -->
+    <path
+        android:fillColor="#00BD9D"
+        android:pathData="M45,47 L45,41 L63,41 L63,35 L45,35 L45,29 L33,38 Z" />
+        
+    <path
+        android:fillColor="#00BD9D"
+        android:pathData="M63,61 L63,67 L45,67 L45,73 L63,73 L63,79 L75,70 Z" />
+</vector>
