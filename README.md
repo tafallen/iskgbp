@@ -1,5 +1,7 @@
 # ISK to GBP Converter Android App
 
+So, I'm going to Iceland. I'm from the UK. I wanted something to help with the currency conversion. So this is largely generated with Google Antigravity. It's nothing much but it works.
+
 A sleek, lightweight, and modern native Android application built with Kotlin and Jetpack Compose for checking the latest conversion rate between Icelandic Króna (ISK) and British Pound Sterling (GBP).
 
 ## Features
